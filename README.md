@@ -1,12 +1,9 @@
 - 👋 Hi, I’m @TomislavVinkovic
-- 👀 I’m interested in developing web and mobile applications.
-- 🌱 I’m currently learning Flutter, PHP/Laravel and I am also planning to learn Node.js, React and Solidity in the near future.
-- I have past experiences in web development in python and C#.
-- 💞️ I’m looking to collaborate on any web/mobile application.
+- 👀 I’m interested in web and mobile development, embedded programming and computer science.
+- 🌱 I’m currently learning Laravel, Javascript and Angular and NLP.
 - 📫 How to reach me:
-    - E-mail: tomothevinkan3@gmail.com
-    - Facebook: https://www.facebook.com/tomislav.vinkovic.737/
-    - LinkedIn: Coming soon!
+    - E-mail: tvinkovi03@gmail.com
+    - LinkedIn: (https://hr.linkedin.com/in/tomislav-vinkovi%C4%87-70a8b0249?trk=people-guest_people_search-card)
 
 <!---
 TomislavVinkovic/TomislavVinkovic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
